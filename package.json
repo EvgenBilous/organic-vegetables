@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-team-7/",
+    "build": "vite build --base=/organic-vegetables/",
     "preview": "vite preview"
   },
   "devDependencies": {
